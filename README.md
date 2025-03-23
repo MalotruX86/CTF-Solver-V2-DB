@@ -1,6 +1,6 @@
 # CTF-Solver-V2-DB - Base de données vectorielle
 
-Ce dépôt contient la base de données vectorielle utilisée par [CTF-Solver-V2](https://github.com/MalotruX86/CTF-Solver-V2).
+Ce dépôt contient la base de données vectorielle utilisée par [CTF-Solver-V2](https://github.com/MalotruX86/CTF-Solver-V2) - le "Google du PWN" avec analyse par IA.
 
 ## Contenu de la base de données
 
@@ -14,7 +14,13 @@ Ce dépôt contient la base de données vectorielle utilisée par [CTF-Solver-V2
 
 La base de données complète est disponible dans la section [Releases](https://github.com/MalotruX86/CTF-Solver-V2-DB/releases) de ce dépôt.
 
-Lien direct : [pwn_vector_db.tar.gz (v1.0.0)](https://github.com/MalotruX86/CTF-Solver-V2-DB/releases/download/v1.0.0/pwn_vector_db.tar.gz)
+### Détails techniques
+- **Taille** : 268 Mo (compressée en tar.gz)
+- **SHA256** : `f2521b665a69fa07bc149fc9d68085143e5f2f9eb0eade590b5763e1aa22bd36`
+
+### Téléchargement
+
+**Lien direct** : [pwn_vector_db.tar.gz (v1.0.0)](https://github.com/MalotruX86/CTF-Solver-V2-DB/releases/download/v1.0.0/pwn_vector_db.tar.gz)
 
 ## Installation
 
